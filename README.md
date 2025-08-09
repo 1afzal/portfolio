@@ -1,1 +1,1 @@
-# http://afzaldev.vercel.app
+# https://afzaldev.vercel.app
