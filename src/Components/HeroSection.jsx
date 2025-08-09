@@ -21,7 +21,7 @@ export default function HecroSection (){
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I'm a fullstack web developer who also does CP when bored {";)"}
+          Full-stack developer who loves exploring new technologies and experimenting with them to build innovative, real-world solutions. Always curious, always learning, and always pushing the boundaries of what I can create.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">

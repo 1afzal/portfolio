@@ -5,7 +5,9 @@ import HecroSection from "./HeroSection";
 import NavBar from "./NavBar";
 import AboutSection from "./AboutSection";
 import SkillsSection from "./SkillsSection";
-import { ProjectsSection } from "./ProjectsSection";
+import  ProjectsSection  from "./ProjectsSection";
+import ContactSection from "./ContactSection";
+import Footer from "./Footer";
 export default function Home(){
     return(
         <>
@@ -17,6 +19,8 @@ export default function Home(){
             <AboutSection />
             <SkillsSection />
             <ProjectsSection />
+            <ContactSection />
+            <Footer />
         </main>
         </>
     )

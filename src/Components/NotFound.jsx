@@ -1,7 +1,7 @@
 export default function NotFound(){
     return(
-        <div>
-        <h1> Not dound 404</h1>
+        <div className="font-sans">
+        <h1> Page not found 404</h1>
         </div>
     )
 
